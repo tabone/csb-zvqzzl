@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tabone.github.io/csb-zvqzzl/static/css/main.44db5235.chunk.css",
+    "main.js": "https://tabone.github.io/csb-zvqzzl/static/js/main.f90f19ed.chunk.js",
+    "main.js.map": "https://tabone.github.io/csb-zvqzzl/static/js/main.f90f19ed.chunk.js.map",
+    "runtime-main.js": "https://tabone.github.io/csb-zvqzzl/static/js/runtime-main.7b34039d.js",
+    "runtime-main.js.map": "https://tabone.github.io/csb-zvqzzl/static/js/runtime-main.7b34039d.js.map",
+    "static/js/2.4fa6ec84.chunk.js": "https://tabone.github.io/csb-zvqzzl/static/js/2.4fa6ec84.chunk.js",
+    "static/js/2.4fa6ec84.chunk.js.map": "https://tabone.github.io/csb-zvqzzl/static/js/2.4fa6ec84.chunk.js.map",
+    "index.html": "https://tabone.github.io/csb-zvqzzl/index.html",
+    "static/css/main.44db5235.chunk.css.map": "https://tabone.github.io/csb-zvqzzl/static/css/main.44db5235.chunk.css.map",
+    "static/js/2.4fa6ec84.chunk.js.LICENSE.txt": "https://tabone.github.io/csb-zvqzzl/static/js/2.4fa6ec84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b34039d.js",
+    "static/js/2.4fa6ec84.chunk.js",
+    "static/css/main.44db5235.chunk.css",
+    "static/js/main.f90f19ed.chunk.js"
+  ]
+}
